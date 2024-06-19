@@ -66,5 +66,5 @@ class Calculator:
             btn.grid(row=row, column=col)
 
 root = tk.Tk()
-calculator = Calculator(root)
+Mycalculator = Calculator(root)
 root.mainloop()
